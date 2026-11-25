@@ -1,0 +1,2 @@
+.word | split("") | reverse | add
+
